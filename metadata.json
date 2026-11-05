@@ -1,0 +1,8 @@
+{
+  "name": "Redline",
+  "description": "Cut through noise. Ship what matters. An AI execution workspace for solo founders and developers to turn messy ideas into focused seven-day validation sprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
